@@ -9,4 +9,5 @@ written in Java, Kotlin, React and Express. Running on Spring Boot with MongoDB 
 - https://github.com/sskeledzija/appo-tool-frontend
 - https://github.com/sskeledzija/appo-tool-mock-backend
 - https://github.com/sskeledzija/appo-tool-backend
-
+Demo app example, everything runs on AWS, including MongoDB. This is just a initial, pre-flight version, and is far from finished, point of this deployment was just to have PoC which does something.
+- http://ec2-18-192-174-85.eu-central-1.compute.amazonaws.com/#/login
